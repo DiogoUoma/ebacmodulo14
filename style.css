@@ -1,0 +1,24 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-image: url('handball-header.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #about h2,
+  #features h2 {
+    color: #333;
+  }
+  
+  #features h3 {
+    color: #333;
+  }
+  
+  #features p {
+    color: #666;
+  }
+  
